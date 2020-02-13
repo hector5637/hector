@@ -42,4 +42,4 @@ input[type=url]:valid,
 input[type=tel]:valid{
     background-color: rgb(134, 250, 173);
     color: black;
-}
+}   
